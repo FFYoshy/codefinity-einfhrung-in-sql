@@ -1,1 +1,2 @@
-SELECT capital FROM country;
+SELECT continent, population 
+FROM country;
